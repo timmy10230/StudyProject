@@ -1,0 +1,19 @@
+﻿{
+	"id":0,
+	"questName":"木乃伊討伐",
+	"description":"假如幫我把木乃伊的問題解決，我會給你獎勵",
+	"recipent":0,
+	"requiredLevel":0,
+	"reward":
+	{
+		"exp":200.0,
+		"money":0.0,
+		"items":[]
+	},
+	"task":
+	{
+		"talkTo":[],
+		"items":[],
+		"kills":[{"id":0,"amount":10,"initialAmount":0}]}
+}
+
